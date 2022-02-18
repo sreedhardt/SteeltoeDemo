@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SteeltoeWebApp1", "SteeltoeWebApp1\SteeltoeWebApp1.csproj", "{E84D50C2-5988-4B92-8883-99718842B363}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SteeltoeWebApi1", "SteeltoeWebApi1\SteeltoeWebApi1.csproj", "{42C72BAA-3BEB-42A9-A456-8AF87FB57221}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DBE7070-0BD3-44D0-9DDF-0DD0FFAEF58D}"
+	ProjectSection(SolutionItems) = preProject
+		RunSteeltoeDemo.cmd = RunSteeltoeDemo.cmd
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SteeltoeWebApi2", "SteeltoeWebApi2\SteeltoeWebApi2.csproj", "{A65980DC-88A8-446A-A27A-AD18588A7B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84D50C2-5988-4B92-8883-99718842B363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84D50C2-5988-4B92-8883-99718842B363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84D50C2-5988-4B92-8883-99718842B363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84D50C2-5988-4B92-8883-99718842B363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C72BAA-3BEB-42A9-A456-8AF87FB57221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C72BAA-3BEB-42A9-A456-8AF87FB57221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C72BAA-3BEB-42A9-A456-8AF87FB57221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C72BAA-3BEB-42A9-A456-8AF87FB57221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65980DC-88A8-446A-A27A-AD18588A7B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65980DC-88A8-446A-A27A-AD18588A7B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65980DC-88A8-446A-A27A-AD18588A7B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65980DC-88A8-446A-A27A-AD18588A7B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9613E828-560D-4E3A-81BB-1EABF4F16B93}
+	EndGlobalSection
+EndGlobal
